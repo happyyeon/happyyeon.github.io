@@ -5,7 +5,7 @@ sitemap: false
 tags: [Dijkstra]
 hide_last_modified: true
 ---
-# 문제 설명
+# 최소비용 구하기
 
 <img width="1175" alt="스크린샷 2022-05-11 오후 2 20 27" src="https://user-images.githubusercontent.com/88064555/167774544-b25f09b8-b14b-44a1-805d-f6fd61b7e5e2.png">
 
