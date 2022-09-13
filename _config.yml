@@ -57,6 +57,8 @@ menu:
     url:               /about/
   - title:             Algorithm
     url:               /algorithm/
+  - title:             Web
+    url:               /web/
 
 
 # Add links to the footer.
@@ -424,14 +426,4 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
-
-# 검색 기능 추가
-
-tipue_search:
-     include:
-         pages: false
-         collections: []
-     exclude:
-         files: [search.html, index.html, tags.html]
-         categories: []
-         tags: []
+          
